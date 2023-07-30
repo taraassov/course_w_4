@@ -1,0 +1,10 @@
+﻿certifi==2023.5.7
+charset-normalizer==3.2.0
+click==8.1.5
+colorama==0.4.6
+idna==3.4
+Pillow==10.0.0
+requests==2.31.0
+svgwrite==1.4.3
+Tree==0.2.4
+urllib3==2.0.3
